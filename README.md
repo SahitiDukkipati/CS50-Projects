@@ -8,7 +8,7 @@ Each file highlights the parts of logic or algorithms I wrote for different proj
    Tools Used: Python, propositional logic (from CS50’s logic library).
 
 # What’s Inside
-  -Knights.py
- - Knights output.png
-  -Degrees.py
- - Degrees.py (output).png
+-Knights.py
+- Knights output.png
+- Degrees.py
+- Degrees.py (output).png
