@@ -5,9 +5,11 @@ Each file includes the logic or algorithmic part I wrote for the projects.
 
 ## Included so far
 * **Knights** – Propositional logic to identify truth-tellers and liars.
-    Tools Used: Python, data structures (queues, sets), search algorithms.
+
+   **Tools Used:** Python, data structures (queues, sets), search algorithms.
 * **Degrees** – Breadth-First Search (BFS) to find the shortest path between two actors.
-     Tools Used: Python, propositional logic (from CS50’s logic library).
+
+   **Tools Used:** Python, propositional logic (from CS50’s logic library).
   
 ## What’s Inside
 * `Knights.py`
