@@ -9,6 +9,6 @@ Each file highlights the parts of logic or algorithms I wrote for different proj
 
 # What’s Inside
 -Knights.py
-- Knights output.png
-- Degrees.py
-- Degrees.py (output).png
+-Knights output.png
+-Degrees.py
+-Degrees.py (output).png
